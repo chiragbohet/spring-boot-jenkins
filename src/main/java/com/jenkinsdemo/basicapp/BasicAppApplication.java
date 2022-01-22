@@ -11,7 +11,7 @@ public class BasicAppApplication {
 
 	@GetMapping("/")
 	String index(){
-		return "Hello Jenkins V4";
+		return "Hello Jenkins V5";
 	}
 
 	public static void main(String[] args) {
